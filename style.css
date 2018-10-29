@@ -147,3 +147,18 @@ li{
 		font-size: 2em;
 	}
 }
+
+.red{
+	color: red;
+}
+
+.light-blue{
+	background-color: lightblue;
+}
+
+.increase-font-size{
+	font-size: 30px;
+}
+.background-color{
+	background-color: black;
+}
